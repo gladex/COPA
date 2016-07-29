@@ -1,0 +1,15 @@
+Package: COPAR
+Version: 1.0
+Title: ChIP-seq Optimal Peak AnalyzeR
+Date: 2016-07-28
+Author: Binhua Tang
+Maintainer: Binhua Tang <bh.tang@outlook.com>
+Depends:
+    R (>= 3.3.0),
+    signal
+Description: The package aims to detect the optimal peak number candidate with statistically
+    meaningful False Discovery Rate (FDR, e.g. 0.05) from aligned BED-format ChIP-seq data.
+    Secondly, the package provides functions to retrieve signal patterns from the detect optimal peak count candidate.
+	Thus it provides a quantitative measure for genomic feature extraction and comparison. 
+License: GPL version 2 or newer
+RoxygenNote: 5.0.1
