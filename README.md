@@ -1,2 +1,2 @@
-# COPA
-ChIP-seq Optimal Peak Analyzer
+# COPAR
+ChIP-seq Optimal Peak AnalyzeR
