@@ -14,7 +14,7 @@ ChIP-seq datasets used as study cases in this manual:
 2. ERR022052, Reference [2];
 3. SRR015350, Reference [3].
 
-# References:
+## References:
 1. Tang, B., et al., Hierarchical modularity in ERa transcriptional network is associated with distinct functions and implicates clinical outcomes. NPG Scientific Reports, 2012. 2.
 2. Hurtado, A., et al., FOXA1 is a key determinant of estrogen receptor function and endocrine response. Nat Genet, 2011. 43(1): p. 27-33.
 3. Welboren, W.J., et al., ChIP-Seq of ERa and RNA polymerase II defines genes differentially responding to ligands. The EMBO Journal, 2009. 28(10): p. 1418-1428.
