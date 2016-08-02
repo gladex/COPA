@@ -5,5 +5,5 @@ COPAR, a user-friendly R package to investigate, quantify and visualize the opti
 Contact: BHT <bh.tang@outlook.com>
 
 This Repo is For Submission Review Purpose.
-Last update: July 31, 2016
 
+Last update: July 31, 2016
