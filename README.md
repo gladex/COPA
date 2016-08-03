@@ -1,5 +1,5 @@
-# COPAR
-## [Current Version Is For Submission Review Purpose, Thanks!]
+# COPAR [Current Version Is For Submission Review Purpose]
+
 ChIP-seq Optimal Peak AnalyzeR (COPAR), a user-friendly open-sourced package to investigate, quantify and visualize the optimal peak alignment and inherent genomic features using ChIP-seq data from NGS experiments. It contains five main functions, i.e.
 
 1. **copar.Aligner**:  the function is to detect the optimal peak candiate from the raw ChIP-seq input data (in BED format mapped using Bowtie or other tools);
